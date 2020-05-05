@@ -7,7 +7,7 @@ class HelloWorld
 	public static void main(String args[]) 
 	{ 
 		System.out.println("Hello, World"); 
-		System.out.println("5th world");
+		System.out.println("Sixth world");
 		System.out.println("Third World");
 	} 
 } 
